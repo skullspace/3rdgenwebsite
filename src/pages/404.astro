@@ -1,0 +1,11 @@
+---
+import Base from '../layouts/Base.astro';
+import { getPublishedPages } from '../lib/pages';
+
+const pages = await getPublishedPages();
+---
+
+<Base title="Page not found" currentId="" pages={pages}>
+  <h1>Page not found</h1>
+  <p>That address is not a page on this site. Choose a page from the menu.</p>
+</Base>
