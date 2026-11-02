@@ -1,0 +1,36 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "winnipegisp",
+  "compatibility_date": "2026-09-03",
+
+  // Assets-only Worker: there is no `main`, because the whole site is static
+  // HTML produced by `npm run build`. `binding` is deliberately omitted too —
+  // it is only valid alongside a Worker script.
+  //
+  // This file must be passed explicitly (`wrangler deploy --config
+  // wrangler.jsonc`). Bare `wrangler deploy` at the root of an npm workspace
+  // triggers Wrangler's project auto-detection, which refuses to guess which
+  // workspace package to deploy and fails the build.
+  //
+  // Workers Builds runs the deploy command without a separate build step.
+  // Wrangler checks that site/dist exists before uploading, so the Astro build
+  // has to run here or the deploy fails with "assets.directory does not exist".
+  "build": {
+    "command": "npm run build"
+  },
+  "assets": {
+    "directory": "./site/dist",
+    // Astro emits directory-style routes (/method/index.html), and serves an
+    // Astro-built 404.html for anything unmatched.
+    "html_handling": "auto-trailing-slash",
+    "not_found_handling": "404-page"
+  },
+  "observability": {
+    "logs": {
+      "enabled": true,
+      "invocation_logs": true,
+      "persist": true
+    }
+  },
+  "send_metrics": false
+}
