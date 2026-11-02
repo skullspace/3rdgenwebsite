@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/wrangler/config-schema.json",
-  "name": "winnipegisp",
+  "name": "3rdgenwebsite",
   "compatibility_date": "2026-09-03",
 
   // Assets-only Worker: there is no `main`, because the whole site is static
