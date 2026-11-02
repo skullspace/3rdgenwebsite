@@ -22,9 +22,9 @@ SkullSpace is continually open to new members, and itâ€™s easy to join us. Hereâ
 
 * * *
 
-We work on a pay-what-you-can model of membership fees, with the minimum amount of $40/month, and a discount of $20/month for students. We accept payment through direct-deposit and PayPal. Grab the direct-deposit form below:
-
-[Direct Deposit Form](http://sksp-new.vmsrv.skullspace.ca/wp-content/uploads/2025/03/Membership_Agreement-2024.pdf)
+We work on a pay-what-you-can model of membership fees, with the minimum amount
+of $40/month, and a discount of $20/month for students. We accept payment
+through direct-deposit and PayPal. 
 
 * * *
 
@@ -34,9 +34,13 @@ You can also set up a monthly subscription through PayPal:
 
 Note that with PayPal we include a fee to cover the transaction cost.
 
-Membership type  
----  
-Regular (and Fees) : $42.00 CAD - monthly Student (and Fees) : $21.00 CAD - monthly Regular : $40.00 CAD - monthly Student : $20.00 CAD - monthly  
+Membership types
+
+- Regular: $42.00 CAD monthly
+- Student: $21.00 CAD monthly
+
+[Subscribe with PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=95PZYML3EFY2E)
+
 ![](/img/membership/pixel.gif)
 
 ## Rules
@@ -53,7 +57,7 @@ SkullSpace is governed by a set of bylaws (the legal stuff) and policies (member
 
 In addition to our rules, each member is required to sign a membership agreement when joining SkullSpace. You can grab a copy here:
 
-[Membership Agreement Form](http://sksp-new.vmsrv.skullspace.ca/wp-content/uploads/2025/03/Membership_Agreement-2024.pdf)
+[Membership Agreement Form](http://sksp-new.vmsrv.skullspace.ca/wp-content/uploads/2017/12/SkullSpace_Membership_Agreement.pdf)
 
 ## Applying
 

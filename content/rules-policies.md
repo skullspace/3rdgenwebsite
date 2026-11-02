@@ -27,8 +27,9 @@ SkullSpace has a board of directors consisting of five members that are elected 
 
   1. Michael Kozakewich
   2. Edwin Amsler
-  3. Mark Campbell
-  4. Thor Robinson
+  3. Seraphina Felicia Tari
+  4. Everett Bazzocchi
+  5. Stefan Asmundsson
 
 ## Monthly meetings
 
