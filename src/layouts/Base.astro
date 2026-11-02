@@ -1,0 +1,79 @@
+---
+import '../styles/global.css';
+import { navLabels, pageHref, type NavPage } from '../lib/pages';
+
+interface Props {
+  title: string;
+  currentId: string;
+  pages: NavPage[];
+}
+
+const { title, currentId, pages } = Astro.props;
+const labels = navLabels(pages);
+const label = labels.get(currentId) ?? title;
+const documentTitle =
+  currentId === '_index' ? "Skullspace · Winnipeg's hackerspace" : `${label} · Skullspace`;
+const canonical = Astro.site ? new URL(Astro.url.pathname, Astro.site).href : undefined;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta
+      name="description"
+      content="Skullspace is Winnipeg's hackerspace, on the second floor of 374 Donald Street."
+    />
+    {canonical && <link rel="canonical" href={canonical} />}
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <title>{documentTitle}</title>
+  </head>
+  <body>
+    <a class="skip-link" href="#content">Skip to content</a>
+    <header class="site-header">
+      <div class="accent-bar" aria-hidden="true"></div>
+      <div class="shell">
+        <a class="brand" href="/">
+          <span class="brand-mark" aria-hidden="true"></span>
+          <span class="brand-name">
+            <span class="brand-skull">Skull</span><span class="brand-space">space</span>
+          </span>
+        </a>
+        <p class="tagline">Winnipeg’s hackerspace</p>
+        <nav aria-label="Pages">
+          <ul class="nav-list">
+            {
+              pages.map((page) => (
+                <li>
+                  <a
+                    href={pageHref(page.id)}
+                    aria-current={page.id === currentId ? 'page' : undefined}
+                  >
+                    {labels.get(page.id)}
+                  </a>
+                </li>
+              ))
+            }
+          </ul>
+        </nav>
+      </div>
+    </header>
+    <main id="content" class="shell">
+      <article class="prose">
+        <slot />
+      </article>
+    </main>
+    <footer class="site-footer">
+      <div class="shell">
+        <p class="footer-name">
+          <span class="brand-skull">Skull</span><span class="brand-space">space</span>
+        </p>
+        <p>2nd floor, 374 Donald Street, Winnipeg</p>
+        <p>Open house Tuesdays at 6pm</p>
+        <p><a href="mailto:admin@skullspace.ca">admin@skullspace.ca</a></p>
+      </div>
+    </footer>
+  </body>
+</html>
