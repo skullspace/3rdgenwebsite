@@ -182,12 +182,20 @@ main {
   padding-bottom: 0.28rem;
 }
 
+.prose h1:has(+ hr),
+.prose h2:has(+ hr) {
+  border-bottom: 0;
+  padding-bottom: 0;
+}
+
 .prose h3 {
   margin: 1.6rem 0 0.5rem;
   font-size: 1.18rem;
 }
 
-.prose h4 {
+.prose h4,
+.prose h5,
+.prose h6 {
   margin: 1.3rem 0 0.4rem;
   color: var(--yellow);
   font-size: 1.02rem;
@@ -248,8 +256,12 @@ main {
 .prose hr {
   border: 0;
   height: 2px;
-  margin: 2rem 0;
+  margin: 1.5rem 0;
   background: linear-gradient(90deg, var(--orange), var(--yellow), transparent 85%);
+}
+
+.prose hr + hr {
+  display: none;
 }
 
 .prose code {
@@ -339,6 +351,24 @@ img:not([src]) {
   color: var(--black);
   background: var(--yellow);
   text-decoration: none;
+}
+
+@media (max-width: 720px) {
+  .site-header {
+    position: static;
+  }
+
+  .brand {
+    font-size: 1.6rem;
+  }
+
+  .nav-list {
+    gap: 0.35rem 0.8rem;
+  }
+
+  .nav-list a {
+    font-size: 0.92rem;
+  }
 }
 
 @media print {
