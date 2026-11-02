@@ -4,6 +4,8 @@ date = "2025-01-01"
 draft = false
 +++
 
+[![Skullspace Hax 7.0 festival graphic, June 4-7 with link to festival website for more information](/img/index/hax7-poster-animated.gif)](https://hax.skullspace.ca/)
+
 ![Image](/img/index/2025-11-07-poster.jpg) [ BUY TICKETS ](https://www.eventbrite.com/e/anti-social-first-fridays-at-skull-november-7-2025-tickets-1918506607909)
 
 Presented by a new generation of SkullSpace members, the return of anti-social first fridays!
@@ -713,6 +715,17 @@ Every other Wednesday (check the calendar!) we host a Super Smash Bros. Ultimate
 
 Interested in learning skills such as 3D Printing, CNC Machining, Programming Arduino's, Djing, and Knitting? Come to SkullSpace for one of our classes on varying topics! In the mean time, feel free to drop in to our open house and we will show you how to use the tools.
 
+![Image](/img/index/bitcoinpizzas.png)
+
+### Monday May 22, 2023  
+Bitcoin Pizza Day
+
+Doors: 5:15pm  
+Order: 5:30pm  
+Delivery ~6:30pm
+
+RSVP encouraged. Details in our [mailing list post](https://groups.google.com/a/skullspace.ca/g/announce/c/f2IrbhlUOq4)
+
 # Past 2022 and 2023 Events
 
 [ ![Image](/img/index/Artboard-2showpass-size.png) ](https://www.showpass.com/hax-50-beta-2/)
@@ -1031,17 +1044,6 @@ A low key open house. Come for a tour anytime 6pm-9pm.
 Building door will likely be locked. Call 204-480-4092 for entry or make arrangements to meet at the door on our Discord or #libera IRC channel. Door checks will also be performed at 6pm, 7pm, and 8pm. 
 
 Event host will be exhibiting two Power Macintoshes and performing battery removal surgery. 
-
-![Image](/img/index/bitcoinpizzas.png)
-
-### Monday May 22, 2023  
-Bitcoin Pizza Day
-
-Doors: 5:15pm  
-Order: 5:30pm  
-Delivery ~6:30pm
-
-RSVP encouraged. Details in our [mailing list post](https://groups.google.com/a/skullspace.ca/g/announce/c/f2IrbhlUOq4)
 
 ![Image](/img/index/board-game-night-at-skull.jpg)
 

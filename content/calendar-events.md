@@ -8,119 +8,194 @@ draft = false
 
 2017-11-29
 
-__ | 
+### May 2026
 
-###  2025 November
+#### 1 — Friday
 
-|  __  
----|---|---  
-Sun | Mon | Tue | Wed | Thu | Fri | Sat  
-|  |  |  |  |  |  1  
-2
+- **First Fridays anti-social @ SkullSpace**  
+  2026-05-01 22:00 – 2026-05-02 03:00  
+  Skullspace, 374 Donald St 2nd Floor, Winnipeg, MB R3B 2J3, Canada  
+  [See more details](https://www.google.com/calendar/event?eid=Mjg1a3B1cTRkN3FwYTFkNmc1cjQ3YTFqcW9fMjAyNjA1MDJUMDMwMDAwWiBzZXJ2aWNlQHNrdWxsc3BhY2UuY2E&ctz=America/Winnipeg)
 
-  * SkullSpace Smash Series **SkullSpace Smash Series** 2025-11-02 18:00 \- 22:00  
-Skullspace, 374 Donald St #200, Winnipeg, MB R3B 2J2, Canada Skullspace Smash Series is a Super Smash Bros Ultimate biweekly tournament that can take place thanks to the help of the staff at Skullspace. SkullSpace is a place for hackers, makers, builders, programmers, tinkerers, gamers, and anybody interested in how stuff works to gather in a common place and help focus their knowledge and creativity. You can find more information about them [ _here_](https://skullspace.ca/) [See more details](https://www.google.com/calendar/event?eid=bjUwa21kdG1pZHI0MmFmaDE3NTg1ZjMyazlfMjAyNTExMDNUMDAwMDAwWiBzZXJ2aWNlQHNrdWxsc3BhY2UuY2E&ctz=America/Winnipeg)
+#### 2 — Saturday
 
-**•** |  3 |  4
+- **First Fridays anti-social @ SkullSpace**  
+  2026-05-01 22:00 – 2026-05-02 03:00  
+  Skullspace, 374 Donald St 2nd Floor, Winnipeg, MB R3B 2J3, Canada  
+  [See more details](https://www.google.com/calendar/event?eid=Mjg1a3B1cTRkN3FwYTFkNmc1cjQ3YTFqcW9fMjAyNjA1MDJUMDMwMDAwWiBzZXJ2aWNlQHNrdWxsc3BhY2UuY2E&ctz=America/Winnipeg)
 
-  * SkullSpace Weekly Meet up / Show & Tell :: OPEN TO THE PUBLIC **SkullSpace Weekly Meet up / Show & Tell :: OPEN TO THE PUBLIC** 2025-11-04 18:00 \- 19:00  
-2-374 Donald St., Winnipeg MB Every week the membership gets together to discuss pressing issues and have potential members introduce themselves. In person! At 374 Donald Street, Winnipeg! [See more details](https://www.google.com/calendar/event?eid=Y2RpNjhwYjY2Z3NqY2I5bDZwaTM4YjlrY3BqNmNiYjJjaGozNGI5cDYwb2owZHBtY2hoNmFjajY2Y18yMDI1MTEwNVQwMDAwMDBaIHNlcnZpY2VAc2t1bGxzcGFjZS5jYQ&ctz=America/Winnipeg)
+#### 5 — Tuesday
 
-**•** |  5
+- **SkullSpace Weekly Meet up / Show & Tell :: OPEN TO THE PUBLIC**  
+  2026-05-05 18:00–19:00  
+  2-374 Donald St., Winnipeg MB  
 
-  * Pattern Club (algorave_winnipeg) **Pattern Club (algorave_winnipeg)** 2025-11-05 18:30 \- 20:00  
-A weekly meetup to learn to make music with code together. Details coming soon. [See more details](https://www.google.com/calendar/event?eid=YTQ2aTcxdDh2OGk5ODUzdjFwOGZnbDdzc2NfMjAyNTExMDZUMDAzMDAwWiBzZXJ2aWNlQHNrdWxsc3BhY2UuY2E&ctz=America/Winnipeg)
+  Every week the membership gets together to discuss pressing issues and have potential members introduce themselves. In person! At 374 Donald Street, Winnipeg!
 
-**•** |  6
+  [See more details](https://www.google.com/calendar/event?eid=Y2RpNjhwYjY2Z3NqY2I5bDZwaTM4YjlrY3BqNmNiYjJjaGozNGI5cDYwb2owZHBtY2hoNmFjajY2Y18yMDI2MDUwNVQyMzAwMDBaIHNlcnZpY2VAc2t1bGxzcGFjZS5jYQ&ctz=America/Winnipeg)
 
-  * ESPHome Night **ESPHome Night** 2025-11-06 18:00 \- 20:30  
-For those interested in home automation. We’re focusing around Home Assistant, ESPHome, and basic electronics to start. [See more details](https://www.google.com/calendar/event?eid=XzZzcGo4Y3ExNmtvM2liOWo4a3JrY2I5azhnc2phYmExODRvazJiYTU2Z3AzMGRwcDg0czNpZGkzOGdfMjAyNTExMDdUMDAwMDAwWiBzZXJ2aWNlQHNrdWxsc3BhY2UuY2E&ctz=America/Winnipeg)
+#### 6 — Wednesday
 
-**•** |  7
+- **Classroom: DJ Practice, Flowjam, Chill**  
+  2026-05-06 19:00–23:00  
 
-  * First Fridays @ SkullSpace **First Fridays @ SkullSpace** 2025-11-07 18:00 \- 21:00  
-Skullspace, 374 Donald St, Winnipeg, MB R3B 2J2, Canada **374 Donald** **Carve a design into a plate of wood with a cnc router** ******Member project showcase** ******Drop-in tabletop gaming** ******Music and refreshments** **18+** ******Make art, socialize** [See more details](https://www.google.com/calendar/event?eid=NmJhZXFhbDZkdnFybWs5M3M1cnN2b2tyMDBfMjAyNTExMDhUMDAwMDAwWiBzZXJ2aWNlQHNrdWxsc3BhY2UuY2E&ctz=America/Winnipeg)
+  time loosely booked as sksp members and friends intend on using the classroom to practice flow, DJ, pole, and various dance related things. Curious? Other sksp members are encouraged to come hang out IF they want to practice those skills too.
 
-**•** |  8  
-9 |  10 |  11
+  [See more details](https://www.google.com/calendar/event?eid=OWE1M3Jxdmpjc3RkamRjdGRqZGFoZjI1MjlfMjAyNjA1MDdUMDAwMDAwWiBzZXJ2aWNlQHNrdWxsc3BhY2UuY2E&ctz=America/Winnipeg)
 
-  * SkullSpace Weekly Meet up / Show & Tell :: OPEN TO THE PUBLIC **SkullSpace Weekly Meet up / Show & Tell :: OPEN TO THE PUBLIC** 2025-11-11 18:00 \- 19:00  
-2-374 Donald St., Winnipeg MB Every week the membership gets together to discuss pressing issues and have potential members introduce themselves. In person! At 374 Donald Street, Winnipeg! [See more details](https://www.google.com/calendar/event?eid=Y2RpNjhwYjY2Z3NqY2I5bDZwaTM4YjlrY3BqNmNiYjJjaGozNGI5cDYwb2owZHBtY2hoNmFjajY2Y18yMDI1MTExMlQwMDAwMDBaIHNlcnZpY2VAc2t1bGxzcGFjZS5jYQ&ctz=America/Winnipeg)
+#### 10 — Sunday
 
-**•** |  12
+- **SkullSpace X Junction X After Hours**  
+  2026-05-10 00:00–06:00  
+  Skullspace, 374 Donald St 2nd Floor, Winnipeg, MB R3B 2J3, Canada  
+  [See more details](https://www.google.com/calendar/event?eid=NHJzajJiaTA5ZWYxMnUzZXBndDdxM2VxMnIgc2VydmljZUBza3VsbHNwYWNlLmNh&ctz=America/Winnipeg)
 
-  * Pattern Club (algorave_winnipeg) **Pattern Club (algorave_winnipeg)** 2025-11-12 18:30 \- 20:00  
-A weekly meetup to learn to make music with code together. Details coming soon. [See more details](https://www.google.com/calendar/event?eid=YTQ2aTcxdDh2OGk5ODUzdjFwOGZnbDdzc2NfMjAyNTExMTNUMDAzMDAwWiBzZXJ2aWNlQHNrdWxsc3BhY2UuY2E&ctz=America/Winnipeg)
+#### 12 — Tuesday
 
-**•** |  13 |  14 |  15
+- **SkullSpace Weekly Meet up / Show & Tell :: OPEN TO THE PUBLIC**  
+  2026-05-12 18:00–19:00  
+  2-374 Donald St., Winnipeg MB  
 
-  * SkullSpace :: Next month's dues are due **SkullSpace :: Next month's dues are due** 2025-11-15  
-SkullSpace expects member dues for a given month to be paid by the 15th of the preceding month. All automated payment options we provide will occur on this date. [See more details](https://www.google.com/calendar/event?eid=XzZkaDY4ZDM1NmRpamdiOWg2a28zNGI5azY0cjZjYjlvYzRxajhiYjY3MG82YWViNTYxaW00ZDlnNjRfMjAyNTExMTUgc2VydmljZUBza3VsbHNwYWNlLmNh&ctz=America/Winnipeg)
+  Every week the membership gets together to discuss pressing issues and have potential members introduce themselves. In person! At 374 Donald Street, Winnipeg!
 
-**•**  
-16
+  [See more details](https://www.google.com/calendar/event?eid=Y2RpNjhwYjY2Z3NqY2I5bDZwaTM4YjlrY3BqNmNiYjJjaGozNGI5cDYwb2owZHBtY2hoNmFjajY2Y18yMDI2MDUxMlQyMzAwMDBaIHNlcnZpY2VAc2t1bGxzcGFjZS5jYQ&ctz=America/Winnipeg)
 
-  * SkullSpace Smash Series **SkullSpace Smash Series** 2025-11-16 18:00 \- 22:00  
-Skullspace, 374 Donald St #200, Winnipeg, MB R3B 2J2, Canada Skullspace Smash Series is a Super Smash Bros Ultimate biweekly tournament that can take place thanks to the help of the staff at Skullspace. SkullSpace is a place for hackers, makers, builders, programmers, tinkerers, gamers, and anybody interested in how stuff works to gather in a common place and help focus their knowledge and creativity. You can find more information about them [ _here_](https://skullspace.ca/) [See more details](https://www.google.com/calendar/event?eid=bjUwa21kdG1pZHI0MmFmaDE3NTg1ZjMyazlfMjAyNTExMTdUMDAwMDAwWiBzZXJ2aWNlQHNrdWxsc3BhY2UuY2E&ctz=America/Winnipeg)
+#### 13 — Wednesday
 
-**•** |  17 |  18
+- **Classroom: DJ Practice, Flowjam, Chill**  
+  2026-05-13 19:00–23:00  
 
-  * SkullSpace Weekly Meet up / Show & Tell :: OPEN TO THE PUBLIC **SkullSpace Weekly Meet up / Show & Tell :: OPEN TO THE PUBLIC** 2025-11-18 18:00 \- 19:00  
-2-374 Donald St., Winnipeg MB Every week the membership gets together to discuss pressing issues and have potential members introduce themselves. In person! At 374 Donald Street, Winnipeg! [See more details](https://www.google.com/calendar/event?eid=Y2RpNjhwYjY2Z3NqY2I5bDZwaTM4YjlrY3BqNmNiYjJjaGozNGI5cDYwb2owZHBtY2hoNmFjajY2Y18yMDI1MTExOVQwMDAwMDBaIHNlcnZpY2VAc2t1bGxzcGFjZS5jYQ&ctz=America/Winnipeg)
+  time loosely booked as sksp members and friends intend on using the classroom to practice flow, DJ, pole, and various dance related things. Curious? Other sksp members are encouraged to come hang out IF they want to practice those skills too.
 
-**•** |  19
+  [See more details](https://www.google.com/calendar/event?eid=OWE1M3Jxdmpjc3RkamRjdGRqZGFoZjI1MjlfMjAyNjA1MTRUMDAwMDAwWiBzZXJ2aWNlQHNrdWxsc3BhY2UuY2E&ctz=America/Winnipeg)
 
-  * Pattern Club (algorave_winnipeg) **Pattern Club (algorave_winnipeg)** 2025-11-19 20:00 \- 21:00  
-A weekly meetup to learn to make music with code together. Details coming soon. [See more details](https://www.google.com/calendar/event?eid=cmFqOGZrYmR2YnFob21nMWo3N2lmbmZnZ2hfMjAyNTExMjBUMDIwMDAwWiBzZXJ2aWNlQHNrdWxsc3BhY2UuY2E&ctz=America/Winnipeg)
+#### 15 — Friday
 
-**•** |  20
+- **SkullSpace :: Next month's dues are due**  
+  2026-05-15 00:00  
 
-  * tentative closet build **tentative closet build** 2025-11-20 14:00 \- 23:00  
-[See more details](https://www.google.com/calendar/event?eid=b3BhOWRibTN2bW1jMW9vNXR1NzMxYzN2aWcgc2VydmljZUBza3VsbHNwYWNlLmNh&ctz=America/Winnipeg)
+  SkullSpace expects member dues for a given month to be paid by the 15th of the preceding month. All automated payment options we provide will occur on this date.
 
-**•** |  21
+  [See more details](https://www.google.com/calendar/event?eid=XzZkaDY4ZDM1NmRpamdiOWg2a28zNGI5azY0cjZjYjlvYzRxajhiYjY3MG82YWViNTYxaW00ZDlnNjRfMjAyNjA1MTUgc2VydmljZUBza3VsbHNwYWNlLmNh&ctz=America/Winnipeg)
 
-  * Double-Feature Movie Night ( The Watch / The 'Burbs ) **Double-Feature Movie Night ( The Watch / The 'Burbs )** 2025-11-21 19:30 \- 2025-11-22 00:50  
-Skullspace, 374 Donald St 2nd Floor, Winnipeg, MB R3B 2J3, Canada Psst.. Over Here! Look, I am well aware that it isn't normal to be crouched here in the bushes in the middle of the night but I had to remind you to come to SkullSpace at 7:30PM this Friday the 21st for another Double-Feature Drive-In Movie Night. I guess you can always watch the closed circuit feed at <http://skullspace.fullspeed.tv> but you'll have to use your favourite media player. Check it out, I made this to hang up around the neighbourhood --> <https://imgta.co/i/63aUirI.jpg> Customers are behaving strangely at the local Costco. When his coworker is attacked on the job, Ben Stiller ( Simple Jack, Scorcher VI ) wastes no time in gathering a group of community-minded individuals to patrol his local streets. The only problem is that he is the only one that seems to be taking this sort of thing seriously. Perhaps the sweet new jackets will pull the team together and give them that much needed energy. The new neighbours are creepy. Every time Tom Hanks ( Mazes & Monsters, Cloud Atlas ) looks creepily out his window at their house he sees them looking creepily out of theirs at him. He looked through their trash but didn't find anything creepy. He even invited himself over so he could sneak around and case their house but they just offered him snacks. He's bound to find the creep in the neighbourhood if he looks hard enough. 7:30PM - The Watch ( <https://www.themoviedb.org/movie/80035> )  
-9:15PM - Intermission  
-9:30PM - The 'Burbs ( <https://www.themoviedb.org/movie/11974> ) [See more details](https://www.google.com/calendar/event?eid=NXR0bmRxMGwxZzFlbGI2cWVqaHFyYW9tdHYgc2VydmljZUBza3VsbHNwYWNlLmNh&ctz=America/Winnipeg)
+- **Double-Feature Movie Night: Captain America / The Fantastic Four**  
+  2026-05-15 19:30 – 2026-05-16 00:50  
+  Skullspace, 374 Donald St 2nd Floor, Winnipeg, MB R3B 2J3, Canada  
 
-**•** |  22
+  Save us SkullSpace!!
 
-  * Double-Feature Movie Night ( The Watch / The 'Burbs ) **Double-Feature Movie Night ( The Watch / The 'Burbs )** 2025-11-21 19:30 \- 2025-11-22 00:50  
-Skullspace, 374 Donald St 2nd Floor, Winnipeg, MB R3B 2J3, Canada Psst.. Over Here! Look, I am well aware that it isn't normal to be crouched here in the bushes in the middle of the night but I had to remind you to come to SkullSpace at 7:30PM this Friday the 21st for another Double-Feature Drive-In Movie Night. I guess you can always watch the closed circuit feed at <http://skullspace.fullspeed.tv> but you'll have to use your favourite media player. Check it out, I made this to hang up around the neighbourhood --> <https://imgta.co/i/63aUirI.jpg> Customers are behaving strangely at the local Costco. When his coworker is attacked on the job, Ben Stiller ( Simple Jack, Scorcher VI ) wastes no time in gathering a group of community-minded individuals to patrol his local streets. The only problem is that he is the only one that seems to be taking this sort of thing seriously. Perhaps the sweet new jackets will pull the team together and give them that much needed energy. The new neighbours are creepy. Every time Tom Hanks ( Mazes & Monsters, Cloud Atlas ) looks creepily out his window at their house he sees them looking creepily out of theirs at him. He looked through their trash but didn't find anything creepy. He even invited himself over so he could sneak around and case their house but they just offered him snacks. He's bound to find the creep in the neighbourhood if he looks hard enough. 7:30PM - The Watch ( <https://www.themoviedb.org/movie/80035> )  
-9:15PM - Intermission  
-9:30PM - The 'Burbs ( <https://www.themoviedb.org/movie/11974> ) [See more details](https://www.google.com/calendar/event?eid=NXR0bmRxMGwxZzFlbGI2cWVqaHFyYW9tdHYgc2VydmljZUBza3VsbHNwYWNlLmNh&ctz=America/Winnipeg)
+  Join the fight this Friday the 15th of May at 7:30PM for another Double-Feature Drive-In Movie Night!  You can always tune in at [http://skullspace.fuillspeed.tv](http://skullspace.fuillspeed.tv) with your favorite media player!
 
-**•**  
-23
+  Click here for the poster --> [https://imgta.co/i/KbrbpFL.jpg](https://imgta.co/i/KbrbpFL.jpg)
 
-  * Fighting Game Monthly (Guilty Gear Strive & Granblue Versus Rising) **Fighting Game Monthly (Guilty Gear Strive & Granblue Versus Rising)** 2025-11-23 12:45 \- 17:30  
-[See more details](https://www.google.com/calendar/event?eid=NzY1NnRja2RvNmZydjhmbjEwbzJ1cDRmamEgc2VydmljZUBza3VsbHNwYWNlLmNh&ctz=America/Winnipeg)
+  A long nap is just what you need after a long tour on the front line punching nazis.  This nap turned out to be a bit longer than expected for Matt Salinger ( Revenge of the Nerds, Wetware ) and yet he still manages to uncover the schemes of his old adversary, save the president, and act his way partially out of a paper bag.
 
-**•** |  24 |  25
+  Cosmic rays.. it always ends up being cosmic rays.  Alex Hyde-White ( Time Trackers, Nope ) and his team of intrepid scientists are caught in a barrage of cosmic radiation.  Each one is forever changed, bringing out best and worst aspects of their personalities.  They have to work together if they are going to face their newest threat... a dude in a poorly fitting rubber mask.
 
-  * Monthly Meetings **Monthly Meetings** 2025-11-25 18:00 \- 19:00  
-Skullspace, 374 Donald St, Winnipeg, MB R3B 2J2, Canada In addition to our regular meetings, we'll discuss what's happened in the last month, show a report on our financials, and take minutes. We're currently holding the meetings online only. You can email [admin@skullspace.ca](mailto:admin@skullspace.ca) to get an invite to our Slack, because that's where we will be video-meeting. We'll also be recording our meeting minutes to [our Wiki](https://wiki.skullspace.ca/index.php?title=Meeting_notes). [See more details](https://www.google.com/calendar/event?eid=NnM5ZWdzdTByOTIwc2hlODVtYmYzdGJuanRfMjAyNTExMjZUMDAwMDAwWiBzZXJ2aWNlQHNrdWxsc3BhY2UuY2E&ctz=America/Winnipeg)
-  * SkullSpace Weekly Meet up / Show & Tell :: OPEN TO THE PUBLIC **SkullSpace Weekly Meet up / Show & Tell :: OPEN TO THE PUBLIC** 2025-11-25 18:00 \- 19:00  
-2-374 Donald St., Winnipeg MB Every week the membership gets together to discuss pressing issues and have potential members introduce themselves. In person! At 374 Donald Street, Winnipeg! [See more details](https://www.google.com/calendar/event?eid=Y2RpNjhwYjY2Z3NqY2I5bDZwaTM4YjlrY3BqNmNiYjJjaGozNGI5cDYwb2owZHBtY2hoNmFjajY2Y18yMDI1MTEyNlQwMDAwMDBaIHNlcnZpY2VAc2t1bGxzcGFjZS5jYQ&ctz=America/Winnipeg)
+  7:30PM - Captain America ( [https://www.themoviedb.org/movie/13995](https://www.themoviedb.org/movie/13995) )
+  9:10PM - Extended Intermission
+  9:35PM - Fantastic Four ( [https://www.themoviedb.org/movie/22059](https://www.themoviedb.org/movie/22059) )
 
-**•****•** |  26
+  [See more details](https://www.google.com/calendar/event?eid=MXY4Z2Q5MXBuZzFzOWttcjNxYzIzdTMycWEgc2VydmljZUBza3VsbHNwYWNlLmNh&ctz=America/Winnipeg)
 
-  * Pattern Club (algorave_winnipeg) **Pattern Club (algorave_winnipeg)** 2025-11-26 20:00 \- 21:00  
-A weekly meetup to learn to make music with code together. Details coming soon. [See more details](https://www.google.com/calendar/event?eid=cmFqOGZrYmR2YnFob21nMWo3N2lmbmZnZ2hfMjAyNTExMjdUMDIwMDAwWiBzZXJ2aWNlQHNrdWxsc3BhY2UuY2E&ctz=America/Winnipeg)
+#### 16 — Saturday
 
-**•** |  27 |  28
+- **Double-Feature Movie Night: Captain America / The Fantastic Four**  
+  2026-05-15 19:30 – 2026-05-16 00:50  
+  Skullspace, 374 Donald St 2nd Floor, Winnipeg, MB R3B 2J3, Canada  
 
-  * WINNISEC **WINNISEC** 2025-11-28 17:45 \- 19:15  
-https://winnisec.life/ [See more details](https://www.google.com/calendar/event?eid=djBoY3J0cGZtMDk3cjQ5azk2ZjF2ZDFyZWdfMjAyNTExMjhUMjM0NTAwWiBzZXJ2aWNlQHNrdWxsc3BhY2UuY2E&ctz=America/Winnipeg)
+  Save us SkullSpace!!
 
-**•** |  29  
-30
+  Join the fight this Friday the 15th of May at 7:30PM for another Double-Feature Drive-In Movie Night!  You can always tune in at [http://skullspace.fuillspeed.tv](http://skullspace.fuillspeed.tv) with your favorite media player!
 
-  * SkullSpace Smash Series **SkullSpace Smash Series** 2025-11-30 18:00 \- 22:00  
-Skullspace, 374 Donald St #200, Winnipeg, MB R3B 2J2, Canada Skullspace Smash Series is a Super Smash Bros Ultimate biweekly tournament that can take place thanks to the help of the staff at Skullspace. SkullSpace is a place for hackers, makers, builders, programmers, tinkerers, gamers, and anybody interested in how stuff works to gather in a common place and help focus their knowledge and creativity. You can find more information about them [ _here_](https://skullspace.ca/) [See more details](https://www.google.com/calendar/event?eid=bjUwa21kdG1pZHI0MmFmaDE3NTg1ZjMyazlfMjAyNTEyMDFUMDAwMDAwWiBzZXJ2aWNlQHNrdWxsc3BhY2UuY2E&ctz=America/Winnipeg)
+  Click here for the poster --> [https://imgta.co/i/KbrbpFL.jpg](https://imgta.co/i/KbrbpFL.jpg)
 
-**•** |  |  |  |  |  |   
-  
-__
+  A long nap is just what you need after a long tour on the front line punching nazis.  This nap turned out to be a bit longer than expected for Matt Salinger ( Revenge of the Nerds, Wetware ) and yet he still manages to uncover the schemes of his old adversary, save the president, and act his way partially out of a paper bag.
+
+  Cosmic rays.. it always ends up being cosmic rays.  Alex Hyde-White ( Time Trackers, Nope ) and his team of intrepid scientists are caught in a barrage of cosmic radiation.  Each one is forever changed, bringing out best and worst aspects of their personalities.  They have to work together if they are going to face their newest threat... a dude in a poorly fitting rubber mask.
+
+  7:30PM - Captain America ( [https://www.themoviedb.org/movie/13995](https://www.themoviedb.org/movie/13995) )
+  9:10PM - Extended Intermission
+  9:35PM - Fantastic Four ( [https://www.themoviedb.org/movie/22059](https://www.themoviedb.org/movie/22059) )
+
+  [See more details](https://www.google.com/calendar/event?eid=MXY4Z2Q5MXBuZzFzOWttcjNxYzIzdTMycWEgc2VydmljZUBza3VsbHNwYWNlLmNh&ctz=America/Winnipeg)
+
+#### 17 — Sunday
+
+- **Fighting Game Monthly (Street Fighter 6 & Guilty Gear Strive)**  
+  2026-05-17 13:30–17:30  
+  [See more details](https://www.google.com/calendar/event?eid=NmNyNmNwMWxjOHFqNGJiNWNvcW04YjlrNjRxajRiYjI2Y3FqZWJiNTZjc2pjZHBsNmNzajBwMW1jYyBzZXJ2aWNlQHNrdWxsc3BhY2UuY2E&ctz=America/Winnipeg)
+
+#### 19 — Tuesday
+
+- **SkullSpace Weekly Meet up / Show & Tell :: OPEN TO THE PUBLIC**  
+  2026-05-19 18:00–19:00  
+  2-374 Donald St., Winnipeg MB  
+
+  Every week the membership gets together to discuss pressing issues and have potential members introduce themselves. In person! At 374 Donald Street, Winnipeg!
+
+  [See more details](https://www.google.com/calendar/event?eid=Y2RpNjhwYjY2Z3NqY2I5bDZwaTM4YjlrY3BqNmNiYjJjaGozNGI5cDYwb2owZHBtY2hoNmFjajY2Y18yMDI2MDUxOVQyMzAwMDBaIHNlcnZpY2VAc2t1bGxzcGFjZS5jYQ&ctz=America/Winnipeg)
+
+#### 20 — Wednesday
+
+- **Classroom: DJ Practice, Flowjam, Chill**  
+  2026-05-20 19:00–23:00  
+
+  time loosely booked as sksp members and friends intend on using the classroom to practice flow, DJ, pole, and various dance related things. Curious? Other sksp members are encouraged to come hang out IF they want to practice those skills too.
+
+  [See more details](https://www.google.com/calendar/event?eid=OWE1M3Jxdmpjc3RkamRjdGRqZGFoZjI1MjlfMjAyNjA1MjFUMDAwMDAwWiBzZXJ2aWNlQHNrdWxsc3BhY2UuY2E&ctz=America/Winnipeg)
+
+#### 21 — Thursday
+
+- **ESPHome Night**  
+  2026-05-21 18:00–20:00  
+  Skullspace, 374 Donald St 2nd Floor, Winnipeg, MB R3B 2J3, Canada  
+
+  For those interested in home automation. We’re focusing around Home Assistant, ESPHome, and basic electronics to start.
+
+  [See more details](https://www.google.com/calendar/event?eid=MzBxMzRvbWFmZW5va3Y3aHZpdHNlN3EybWRfMjAyNjA1MjFUMjMwMDAwWiBzZXJ2aWNlQHNrdWxsc3BhY2UuY2E&ctz=America/Winnipeg)
+
+#### 24 — Sunday
+
+- **SkullSpace Smash Series**  
+  2026-05-24 14:30–19:30  
+  Skullspace, 374 Donald St #200, Winnipeg, MB R3B 2J2, Canada  
+
+  Skullspace Smash Series is a Super Smash Bros Ultimate biweekly tournament that can take place thanks to the help of the staff at Skullspace. SkullSpace is a place for hackers, makers, builders, programmers, tinkerers, gamers, and anybody interested in how stuff works to gather in a common place and help focus their knowledge and creativity.
+
+  You can find more information about them [here](https://skullspace.ca/)
+
+  [See more details](https://www.google.com/calendar/event?eid=ODJ2OGc2MTc2Y2s3aG4zZWRvbmQ2bjNsaTJfMjAyNjA1MjRUMTkzMDAwWiBzZXJ2aWNlQHNrdWxsc3BhY2UuY2E&ctz=America/Winnipeg)
+
+#### 26 — Tuesday
+
+- **Monthly Meetings**  
+  2026-05-26 18:00–19:00  
+  Skullspace, 374 Donald St, Winnipeg, MB R3B 2J2, Canada  
+
+  In addition to our regular open house, we'll discuss what's happened in the last month, show a report on our financials, and take minutes.
+
+  [See more details](https://www.google.com/calendar/event?eid=NnM5ZWdzdTByOTIwc2hlODVtYmYzdGJuanRfMjAyNjA1MjZUMjMwMDAwWiBzZXJ2aWNlQHNrdWxsc3BhY2UuY2E&ctz=America/Winnipeg)
+
+- **SkullSpace Weekly Meet up / Show & Tell :: OPEN TO THE PUBLIC**  
+  2026-05-26 18:00–19:00  
+  2-374 Donald St., Winnipeg MB  
+
+  Every week the membership gets together to discuss pressing issues and have potential members introduce themselves. In person! At 374 Donald Street, Winnipeg!
+
+  [See more details](https://www.google.com/calendar/event?eid=Y2RpNjhwYjY2Z3NqY2I5bDZwaTM4YjlrY3BqNmNiYjJjaGozNGI5cDYwb2owZHBtY2hoNmFjajY2Y18yMDI2MDUyNlQyMzAwMDBaIHNlcnZpY2VAc2t1bGxzcGFjZS5jYQ&ctz=America/Winnipeg)
+
+#### 27 — Wednesday
+
+- **Classroom: DJ Practice, Flowjam, Chill**  
+  2026-05-27 19:00–23:00  
+
+  time loosely booked as sksp members and friends intend on using the classroom to practice flow, DJ, pole, and various dance related things. Curious? Other sksp members are encouraged to come hang out IF they want to practice those skills too.
+
+  [See more details](https://www.google.com/calendar/event?eid=OWE1M3Jxdmpjc3RkamRjdGRqZGFoZjI1MjlfMjAyNjA1MjhUMDAwMDAwWiBzZXJ2aWNlQHNrdWxsc3BhY2UuY2E&ctz=America/Winnipeg)
+
+#### 31 — Sunday
+
+- **PSA Volunteer Training**  
+  2026-05-31 11:00–17:00  
+  [See more details](https://www.google.com/calendar/event?eid=Mzk1cjdzcDhtM292NWxxaGFodDJqY2QzZWogc2VydmljZUBza3VsbHNwYWNlLmNh&ctz=America/Winnipeg)
